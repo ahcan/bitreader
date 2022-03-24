@@ -1,3 +1,3 @@
-module github.com/32bitkid/bitreader
+module github/ahcan/bitreader
 
-go 1.13
+go 1.18

@@ -5,7 +5,7 @@ import (
 	"io"
 	"testing"
 
-	"github.com/ahcan/bitreader"
+	"github/ahcan/bitreader"
 )
 
 type read32 func(uint) (uint32, error)
